@@ -10,7 +10,7 @@ import java.util.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TestCollection {
+public class TestListAndArray {
     //ArrayList 是由数组组成
     private Collection<Person> arrayList = new ArrayList<>();
     //链表
